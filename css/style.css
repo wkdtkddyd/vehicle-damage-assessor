@@ -1,0 +1,97 @@
+/* ===============================
+   차량손해사정사 QR 시스템
+   제작 : 장상용 손해사정사
+================================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:"맑은 고딕",sans-serif;
+    background:#eef3f8;
+    color:#333;
+}
+
+.container{
+    width:100%;
+    max-width:900px;
+    margin:50px auto;
+    background:white;
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+}
+
+.header{
+    background:#005bac;
+    color:white;
+    text-align:center;
+    padding:45px;
+}
+
+.header h1{
+    font-size:42px;
+    margin-bottom:15px;
+}
+
+.header h2{
+    font-size:22px;
+    font-weight:400;
+}
+
+.menu{
+    padding:50px;
+}
+
+.menu a{
+    display:block;
+    text-decoration:none;
+    color:#005bac;
+    border:2px solid #005bac;
+    border-radius:12px;
+    padding:18px;
+    margin-bottom:18px;
+    font-size:22px;
+    font-weight:bold;
+    transition:.25s;
+}
+
+.menu a:hover{
+    background:#005bac;
+    color:white;
+}
+
+.footer{
+    text-align:center;
+    background:#f7f7f7;
+    padding:30px;
+    color:#666;
+    font-size:15px;
+}
+
+.footer strong{
+    color:#005bac;
+}
+
+@media(max-width:768px){
+
+.header h1{
+    font-size:30px;
+}
+
+.header h2{
+    font-size:18px;
+}
+
+.menu{
+    padding:25px;
+}
+
+.menu a{
+    font-size:18px;
+}
+
+}
