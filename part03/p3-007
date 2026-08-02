@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P3-007 가솔린기관의 작동 원리를 설명하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+    <div class="qr-title">
+
+        <div class="qr-code">
+            P3-007
+        </div>
+
+        <div class="qr-part">
+            PART 03 │ 기관의 기본원리
+        </div>
+
+    </div>
+
+
+    <div class="qr-question">
+
+        가솔린기관의 작동 원리를 설명하시오.
+
+    </div>
+
+
+    <div class="qr-section">
+
+        <h3>핵심 키워드</h3>
+
+        <span class="keyword">가솔린기관</span>
+        <span class="keyword">흡입</span>
+        <span class="keyword">압축</span>
+        <span class="keyword">점화플러그</span>
+        <span class="keyword">폭발(동력)</span>
+        <span class="keyword">배기</span>
+        <span class="keyword">오토사이클</span>
+        <span class="keyword">혼합기</span>
+        <span class="keyword">화학에너지</span>
+        <span class="keyword">기계적 에너지</span>
+
+    </div>
+
+
+
+    <div class="qr-section answer">
+
+        <h3>모범답안</h3>
+
+        <p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+가솔린기관은 연료와 공기의 혼합기를 흡입하여 압축한 후 점화플러그의 불꽃으로 점화시켜 발생한 연소에너지를 기계적 에너지로 변환하는 내연기관으로, 오토사이클(Otto Cycle)을 기본 작동원리로 한다.
+
+        </p>
+
+
+        <p>
+
+<b>2. 가솔린기관의 작동 원리</b>
+
+<br><br>
+
+<b>(1) 흡입행정</b>
+
+<br><br>
+
+피스톤이 하강하면서 흡기밸브가 열리고 연료와 공기의 혼합기가 실린더 내부로 흡입된다.
+
+<br><br>
+
+<b>(2) 압축행정</b>
+
+<br><br>
+
+피스톤이 상승하면서 혼합기를 압축하여 연소효율을 높인다.
+
+<br><br>
+
+<b>(3) 폭발(동력)행정</b>
+
+<br><br>
+
+압축된 혼합기는 점화플러그의 불꽃에 의해 점화되며, 연소가스의 팽창압력이 피스톤을 밀어 동력을 발생시킨다.
+
+<br><br>
+
+<b>(4) 배기행정</b>
+
+<br><br>
+
+배기밸브가 열리고 피스톤이 상승하면서 연소 후 발생한 배기가스를 실린더 외부로 배출한다.
+
+        </p>
+
+
+        <p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+가솔린기관은 흡입 → 압축 → 점화 및 폭발 → 배기의 4행정을 반복하여 연료의 화학에너지를 기계적 에너지로 변환하고 자동차의 구동력을 발생시킨다.
+
+        </p>
+
+    </div>
+
+
+
+    <div class="qr-section">
+
+        <h3>채점포인트</h3>
+
+        <div class="point">
+
+① 가솔린기관의 정의
+
+<br>
+
+② 4행정 작동순서 설명
+
+<br>
+
+③ 점화플러그에 의한 강제점화 설명
+
+<br>
+
+④ 화학에너지의 기계적 에너지 변환 과정
+
+<br>
+
+⑤ 오토사이클의 이해
+
+        </div>
+
+    </div>
+
+
+
+    <div class="qr-section">
+
+        <h3>출제빈도</h3>
+
+        <div class="frequency">
+
+★★★★★ 매우 높음
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>
