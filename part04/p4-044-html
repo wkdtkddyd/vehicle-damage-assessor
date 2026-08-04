@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P4-044 사고 후 고전압 안전절차의 기본 흐름을 서술하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+<div class="qr-title">
+
+<div class="qr-code">
+P4-044
+</div>
+
+<div class="qr-part">
+PART 04 │ 친환경자동차
+</div>
+
+</div>
+
+<div class="qr-question">
+
+사고 후 고전압 안전절차의 기본 흐름을 서술하시오.
+
+</div>
+
+<div class="qr-section">
+
+<h3>핵심 키워드</h3>
+
+<span class="keyword">고전압안전절차</span>
+
+<span class="keyword">사고차량</span>
+
+<span class="keyword">안전구역확보</span>
+
+<span class="keyword">고전압차단</span>
+
+<span class="keyword">서비스플러그</span>
+
+<span class="keyword">절연보호구</span>
+
+<span class="keyword">절연저항</span>
+
+<span class="keyword">BMS</span>
+
+<span class="keyword">OBDⅡ</span>
+
+<span class="keyword">손해사정</span>
+
+</div>
+
+<div class="qr-section answer">
+
+<h3>모범답안</h3>
+
+<p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+전기자동차 사고 후에는 감전 및 화재 위험이 존재하므로, 제조사의 안전절차에 따라 고전압 시스템을 안전하게 관리하면서 차량의 손상 여부를 확인하여야 한다.
+
+</p>
+
+<p>
+
+<b>2. 기본 절차</b>
+
+<br><br>
+
+<b>(1) 사고현장 안전 확보</b>
+
+<br><br>
+
+차량 주변의 안전구역을 확보하고 일반인의 접근을 통제하며 이상 발열, 연기 및 화재 여부를 확인한다.
+
+<br><br>
+
+<b>(2) 고전압 시스템 차단</b>
+
+<br><br>
+
+절연 보호장비를 착용한 후 서비스 플러그를 분리하는 등 제조사의 절차에 따라 고전압 전원을 차단한다.
+
+<br><br>
+
+<b>(3) 외관 및 고전압 부품 점검</b>
+
+<br><br>
+
+고전압 배터리, 케이블, 커넥터, 인버터의 변형, 균열, 냉각수 또는 전해질 누설 여부를 확인한다.
+
+<br><br>
+
+<b>(4) 전자진단 및 절연저항 확인</b>
+
+<br><br>
+
+OBDⅡ를 이용하여 BMS의 고장코드(DTC)를 확인하고 절연저항을 측정하여 고전압 시스템의 안전성을 평가한다.
+
+<br><br>
+
+<b>(5) 손상 판정 및 안전관리</b>
+
+<br><br>
+
+점검 결과를 종합하여 수리 가능 여부를 판단하고, 열폭주 위험이 있는 경우에는 차량을 격리 보관하며 지속적으로 상태를 모니터링한다.
+
+</p>
+
+<p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+사고 후 고전압 안전절차는 안전 확보, 고전압 차단, 외관 점검, 전자진단 및 절연저항 확인, 최종 손상 판정의 순서로 수행하여야 하며, 모든 과정에서 감전 및 화재 예방을 최우선으로 고려하여야 한다.
+
+</p>
+
+</div>
+
+<div class="qr-section">
+
+<h3>채점포인트</h3>
+
+<div class="point">
+
+① 사고현장 안전 확보
+
+<br>
+
+② 고전압 시스템 차단
+
+<br>
+
+③ 고전압 부품 외관 점검
+
+<br>
+
+④ OBDⅡ·BMS 진단 및 절연저항 측정
+
+<br>
+
+⑤ 손상 판정 및 열폭주 안전관리
+
+</div>
+
+</div>
+
+<div class="qr-section">
+
+<h3>출제빈도</h3>
+
+<div class="frequency">
+
+★★★★★ 매우 높음
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
