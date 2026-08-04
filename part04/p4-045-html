@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P4-045 전동화 차량 접근 시 일반 차량과 달리 주의하여야 할 사항을 설명하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+<div class="qr-title">
+
+<div class="qr-code">
+P4-045
+</div>
+
+<div class="qr-part">
+PART 04 │ 친환경자동차
+</div>
+
+</div>
+
+<div class="qr-question">
+
+전동화 차량 접근 시 일반 차량과 달리 주의하여야 할 사항을 설명하시오.
+
+</div>
+
+<div class="qr-section">
+
+<h3>핵심 키워드</h3>
+
+<span class="keyword">전동화차량</span>
+
+<span class="keyword">고전압시스템</span>
+
+<span class="keyword">감전위험</span>
+
+<span class="keyword">고전압배터리</span>
+
+<span class="keyword">절연보호구</span>
+
+<span class="keyword">열폭주</span>
+
+<span class="keyword">고전압차단</span>
+
+<span class="keyword">서비스플러그</span>
+
+<span class="keyword">안전거리</span>
+
+<span class="keyword">손해사정</span>
+
+</div>
+
+<div class="qr-section answer">
+
+<h3>모범답안</h3>
+
+<p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+전동화 차량은 고전압 배터리와 고전압 회로를 사용하므로 일반 내연기관 차량과 달리 감전, 화재 및 열폭주의 위험이 존재한다. 따라서 사고 차량에 접근할 때에는 제조사의 안전절차를 우선적으로 준수하여야 한다.
+
+</p>
+
+<p>
+
+<b>2. 주의사항</b>
+
+<br><br>
+
+<b>(1) 사고현장 안전 확보</b>
+
+<br><br>
+
+차량 주변의 안전거리를 확보하고 연기, 화재, 이상 발열 또는 전해질 누설 여부를 먼저 확인한다.
+
+<br><br>
+
+<b>(2) 절연 보호장비 착용</b>
+
+<br><br>
+
+고전압 작업에 적합한 절연장갑과 보호구를 착용한 후 차량에 접근한다.
+
+<br><br>
+
+<b>(3) 고전압 시스템 차단</b>
+
+<br><br>
+
+서비스 플러그 분리 등 제조사의 절차에 따라 고전압 전원을 안전하게 차단한 후 점검을 실시한다.
+
+<br><br>
+
+<b>(4) 고전압 부품 접촉 금지</b>
+
+<br><br>
+
+고전압 케이블, 커넥터 및 배터리 팩은 안전 확인 전까지 임의로 접촉하거나 분해하지 않는다.
+
+<br><br>
+
+<b>(5) 열폭주 및 재발화 대비</b>
+
+<br><br>
+
+배터리 손상이 의심되는 경우에는 열폭주와 재발화 가능성을 고려하여 차량을 격리하고 지속적으로 상태를 관찰한다.
+
+</p>
+
+<p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+전동화 차량은 일반 차량과 달리 고전압 안전관리와 배터리 화재 예방이 무엇보다 중요하므로, 안전 확보 후 제조사의 절차에 따라 접근하고 점검하여야 한다.
+
+</p>
+
+</div>
+
+<div class="qr-section">
+
+<h3>채점포인트</h3>
+
+<div class="point">
+
+① 사고현장 안전 확보
+
+<br>
+
+② 절연 보호장비 착용
+
+<br>
+
+③ 고전압 시스템 차단
+
+<br>
+
+④ 고전압 부품 접촉 금지
+
+<br>
+
+⑤ 열폭주 및 재발화 대비
+
+</div>
+
+</div>
+
+<div class="qr-section">
+
+<h3>출제빈도</h3>
+
+<div class="frequency">
+
+★★★★★ 매우 높음
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
