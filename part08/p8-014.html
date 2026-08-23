@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P8-014 전방충돌방지보조가 경고 기능과 개입 기능을 어떻게 수행하는지 서술하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+<div class="qr-title">
+
+<div class="qr-code">
+P8-014
+</div>
+
+<div class="qr-part">
+PART 08 │ ADAS 및 자율주행
+</div>
+
+</div>
+
+<div class="qr-question">
+
+전방충돌방지보조가 경고 기능과 개입 기능을 어떻게 수행하는지 서술하시오.
+
+</div>
+
+<div class="qr-section">
+
+<h3>핵심 키워드</h3>
+
+<span class="keyword">FCA</span>
+
+<span class="keyword">전방충돌방지보조</span>
+
+<span class="keyword">경고 기능</span>
+
+<span class="keyword">개입 기능</span>
+
+<span class="keyword">카메라</span>
+
+<span class="keyword">레이더</span>
+
+<span class="keyword">ECU</span>
+
+<span class="keyword">자동긴급제동</span>
+
+<span class="keyword">캘리브레이션</span>
+
+<span class="keyword">손해사정</span>
+
+</div>
+
+<div class="qr-section answer">
+
+<h3>모범답안</h3>
+
+<p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+전방충돌방지보조(FCA)는 전방의 차량, 보행자 및 장애물을 감지하여 충돌 위험을 판단하고, 먼저 운전자에게 경고한 후 필요 시 차량을 자동으로 제동하여 충돌을 방지하거나 피해를 줄이는 ADAS 기능이다.
+
+</p>
+
+<p>
+
+<b>2. 경고 기능과 개입 기능</b>
+
+<br><br>
+
+<b>(1) 전방 상황 감지</b>
+
+<br><br>
+
+카메라와 레이더가 차량 전방의 대상물과 차간거리, 상대속도 등을 실시간으로 감지하여 ECU에 전달한다.
+
+<br><br>
+
+<b>(2) 충돌 위험 판단</b>
+
+<br><br>
+
+ECU는 센서 정보를 분석하여 충돌 가능성을 계산하고, 위험 수준을 단계적으로 판단한다.
+
+<br><br>
+
+<b>(3) 경고 기능 수행</b>
+
+<br><br>
+
+충돌 위험이 일정 기준에 도달하면 계기판 표시, 경고음 또는 경고 메시지를 통해 운전자에게 위험을 알리고 회피 조작을 유도한다.
+
+<br><br>
+
+<b>(4) 개입 기능 수행</b>
+
+<br><br>
+
+운전자가 적절히 반응하지 않거나 충돌이 임박한 경우 ECU는 제동장치를 제어하여 자동긴급제동(AEB)을 실시함으로써 충돌을 회피하거나 피해를 경감한다.
+
+<br><br>
+
+<b>(5) 손해사정상 확인사항</b>
+
+<br><br>
+
+사고 차량은 전방 카메라와 레이더의 손상 여부, 브래킷 변형, ECU 및 CAN 통신 상태, 캘리브레이션 실시 여부와 기능시험 결과를 확인하고 제조사 수리기준에 따라 FCA 기능의 정상 여부를 판단하여야 한다.
+
+</p>
+
+<p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+전방충돌방지보조는 '위험 감지 → 경고 → 자동 제동'의 순서로 작동하는 예방적 안전장치이다. 따라서 사고 후에는 센서의 손상뿐 아니라 경고 기능과 자동 제동 기능이 정상적으로 복원되었는지를 함께 확인하는 것이 중요하다.
+
+</p>
+
+</div>
+
+<div class="qr-section">
+
+<h3>채점포인트</h3>
+
+<div class="point">
+
+① 전방 상황 감지
+
+<br>
+
+② 충돌 위험 판단
+
+<br>
+
+③ 경고 기능 수행
+
+<br>
+
+④ 자동 제동(개입 기능)
+
+<br>
+
+⑤ 손해사정상 확인사항
+
+</div>
+
+</div>
+
+<div class="qr-section">
+
+<h3>출제빈도</h3>
+
+<div class="frequency">
+
+★★★★★ 매우 높음
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
