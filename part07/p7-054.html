@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P7-054 배선 손상이 다수의 전장 기능 이상으로 이어질 수 있는 이유를 설명하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+<div class="qr-title">
+
+<div class="qr-code">
+P7-054
+</div>
+
+<div class="qr-part">
+PART 07 │ 전기장치
+</div>
+
+</div>
+
+<div class="qr-question">
+
+배선 손상이 다수의 전장 기능 이상으로 이어질 수 있는 이유를 설명하시오.
+
+</div>
+
+<div class="qr-section">
+
+<h3>핵심 키워드</h3>
+
+<span class="keyword">배선(Harness)</span>
+
+<span class="keyword">ECU</span>
+
+<span class="keyword">CAN 통신</span>
+
+<span class="keyword">전원공급</span>
+
+<span class="keyword">신호전달</span>
+
+<span class="keyword">단선</span>
+
+<span class="keyword">합선</span>
+
+<span class="keyword">DTC</span>
+
+<span class="keyword">전자제어</span>
+
+<span class="keyword">손해사정</span>
+
+</div>
+
+<div class="qr-section answer">
+
+<h3>모범답안</h3>
+
+<p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+자동차의 배선(Harness)은 ECU, 센서 및 액추에이터를 연결하여 전원과 제어신호를 전달하는 전기·전자시스템의 핵심 구성요소이다. 현대 자동차는 여러 전자제어장치가 CAN 통신망으로 연결되어 있으므로 하나의 배선 손상도 여러 전장 기능의 이상으로 이어질 수 있다.
+
+</p>
+
+<p>
+
+<b>2. 다수의 전장 기능 이상으로 이어지는 이유</b>
+
+<br><br>
+
+<b>(1) 공통 전원 및 접지 회로를 사용하기 때문이다.</b>
+
+<br><br>
+
+하나의 전원 또는 접지 배선이 손상되면 여러 ECU와 전장장치에 동시에 전원이 공급되지 않아 복수의 기능 이상이 발생할 수 있다.
+
+<br><br>
+
+<b>(2) CAN 통신망으로 연결되어 있기 때문이다.</b>
+
+<br><br>
+
+CAN 통신 배선이 단선되거나 합선되면 ECU 간 데이터 교환이 중단되어 엔진, ABS, ESC, 에어백 등 여러 전자제어시스템에서 동시에 이상이 발생할 수 있다.
+
+<br><br>
+
+<b>(3) 센서 신호 전달이 차단되기 때문이다.</b>
+
+<br><br>
+
+배선 손상으로 센서 신호가 ECU에 전달되지 않으면 ECU는 정상적인 제어를 수행하지 못하여 다양한 기능에 영향을 미친다.
+
+<br><br>
+
+<b>(4) 연관 제어 기능이 함께 제한되기 때문이다.</b>
+
+<br><br>
+
+현대 자동차의 전장장치는 서로 연계하여 작동하므로 하나의 시스템 이상이 다른 제어 기능에도 영향을 미쳐 복합적인 고장이 발생할 수 있다.
+
+<br><br>
+
+<b>(5) 손해사정상 확인사항</b>
+
+<br><br>
+
+사고 차량은 배선의 외관 손상, 단선·합선 여부, 커넥터 상태, CAN 통신 이상 및 고장코드(DTC)를 종합적으로 확인하고, 제조사 수리기준에 따라 배선 수리 또는 교환의 적정성을 판단하여야 한다.
+
+</p>
+
+<p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+자동차 배선은 전원과 제어신호를 전달하는 핵심 요소이므로, 배선 손상은 여러 ECU와 CAN 통신망에 영향을 미쳐 다양한 전장 기능의 이상을 유발할 수 있다. 따라서 사고 후에는 시스템 전체를 종합적으로 점검하여 정확한 손상 판정을 실시하여야 한다.
+
+</p>
+
+</div>
+
+<div class="qr-section">
+
+<h3>채점포인트</h3>
+
+<div class="point">
+
+① 공통 전원 및 접지 회로
+
+<br>
+
+② CAN 통신 영향
+
+<br>
+
+③ 센서 신호 전달 이상
+
+<br>
+
+④ 연계 제어 기능 이상
+
+<br>
+
+⑤ 손해사정상 확인사항
+
+</div>
+
+</div>
+
+<div class="qr-section">
+
+<h3>출제빈도</h3>
+
+<div class="frequency">
+
+★★★★★ 매우 높음
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
