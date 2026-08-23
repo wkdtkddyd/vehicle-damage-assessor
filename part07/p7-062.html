@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>P7-062 진단기에서 확인한 고장코드만으로 부품 파손을 단정할 수 없는 이유를 설명하시오.</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+<div class="qr-page">
+
+<div class="qr-title">
+
+<div class="qr-code">
+P7-062
+</div>
+
+<div class="qr-part">
+PART 07 │ 전기장치
+</div>
+
+</div>
+
+<div class="qr-question">
+
+진단기에서 확인한 고장코드만으로 부품 파손을 단정할 수 없는 이유를 설명하시오.
+
+</div>
+
+<div class="qr-section">
+
+<h3>핵심 키워드</h3>
+
+<span class="keyword">OBD</span>
+
+<span class="keyword">진단기</span>
+
+<span class="keyword">DTC</span>
+
+<span class="keyword">Freeze Frame</span>
+
+<span class="keyword">데이터 스트림</span>
+
+<span class="keyword">ECU</span>
+
+<span class="keyword">배선</span>
+
+<span class="keyword">커넥터</span>
+
+<span class="keyword">제조사 수리기준</span>
+
+<span class="keyword">손해사정</span>
+
+</div>
+
+<div class="qr-section answer">
+
+<h3>모범답안</h3>
+
+<p>
+
+<b>1. 개요</b>
+
+<br><br>
+
+고장코드(DTC)는 ECU가 전자제어시스템의 이상을 감지하여 저장한 진단 정보이다. 그러나 고장코드는 이상이 발생한 계통이나 회로를 알려주는 참고자료일 뿐, 특정 부품의 파손을 직접 의미하는 것은 아니다.
+
+</p>
+
+<p>
+
+<b>2. 부품 파손을 단정할 수 없는 이유</b>
+
+<br><br>
+
+<b>(1) 고장코드는 이상 현상을 기록하는 정보이기 때문이다.</b>
+
+<br><br>
+
+DTC는 ECU가 감지한 전기적 또는 논리적 이상을 표시하는 것으로, 실제 고장 부위를 직접 지시하지는 않는다.
+
+<br><br>
+
+<b>(2) 동일한 고장코드가 여러 원인으로 발생할 수 있기 때문이다.</b>
+
+<br><br>
+
+센서 자체의 불량뿐 아니라 배선의 단선·합선, 커넥터 접촉 불량, 전원 공급 이상, ECU의 이상 등 다양한 원인으로 동일한 고장코드가 발생할 수 있다.
+
+<br><br>
+
+<b>(3) 간헐적 이상일 가능성이 있기 때문이다.</b>
+
+<br><br>
+
+일시적인 접촉 불량이나 주행 환경에 따른 이상은 진단 시점에는 정상으로 회복될 수 있으므로 지속적인 부품 고장으로 단정할 수 없다.
+
+<br><br>
+
+<b>(4) 실제 기능 점검이 필요하기 때문이다.</b>
+
+<br><br>
+
+Freeze Frame 데이터와 실시간 데이터 스트림을 분석하고, 기능시험, 외관 점검 및 전기적 측정을 함께 실시하여 실제 이상 여부를 확인하여야 한다.
+
+<br><br>
+
+<b>(5) 손해사정상 확인사항</b>
+
+<br><br>
+
+사고 차량은 DTC 확인 후 센서와 액추에이터, 배선 및 커넥터, ECU와 CAN 통신 상태를 함께 점검하고, 사고와의 인과관계 및 제조사 수리기준을 종합적으로 검토하여 수리 또는 교환 여부를 판단하여야 한다.
+
+</p>
+
+<p>
+
+<b>3. 결론</b>
+
+<br><br>
+
+고장코드는 전자제어시스템의 이상을 파악하는 중요한 진단 정보이지만, 부품 파손을 직접 의미하지는 않는다. 따라서 진단기 분석과 기능시험, 외관 점검 및 제조사 수리기준을 종합적으로 적용하여 정확한 손상 여부를 판단하여야 한다.
+
+</p>
+
+</div>
+
+<div class="qr-section">
+
+<h3>채점포인트</h3>
+
+<div class="point">
+
+① DTC의 의미
+
+<br>
+
+② 동일 코드의 다양한 원인
+
+<br>
+
+③ 간헐적 이상 가능성
+
+<br>
+
+④ Freeze Frame·데이터 스트림·기능시험
+
+<br>
+
+⑤ 제조사 수리기준 및 종합판단
+
+</div>
+
+</div>
+
+<div class="qr-section">
+
+<h3>출제빈도</h3>
+
+<div class="frequency">
+
+★★★★★ 매우 높음
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
